@@ -1,0 +1,15 @@
+[
+  {
+    "relation" : [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target" : {
+      "namespace" : "android_app",
+      "package_name" : "proton.android.pass.autofill.sample",
+      "sha256_cert_fingerprints" : [
+        "54:4E:28:2D:8A:B6:91:F9:78:C5:30:9C:AB:D9:38:63:2D:28:3F:AC:A1:75:D2:F7:C6:09:BE:1A:F0:93:EA:69"
+      ]
+    }
+  }
+]
